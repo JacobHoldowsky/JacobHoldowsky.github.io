@@ -74,6 +74,13 @@ ol, ul {
 	margin-bottom: 100px;
 }
 
+#email{
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	margin-bottom: 32px;
+}
+
 .logo{
 	display: flex;
 	align-items: center;
