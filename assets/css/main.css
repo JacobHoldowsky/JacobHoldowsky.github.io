@@ -38,10 +38,10 @@ ol, ul {
 }
 
 #profile-pic {
-    height: 200px;
+    height: 120vh;
     border-radius: 60px;
     border: 1px solid white;
-    width: 200px;
+    width: 120px;
     z-index: 20;
 }
 
