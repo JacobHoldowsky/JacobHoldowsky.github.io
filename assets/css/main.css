@@ -41,7 +41,7 @@ ol, ul {
     height: 120px;
     border-radius: 60px;
     border: 1px solid white;
-    width: auto;
+    width: 120px;
     z-index: 20;
 }
 
