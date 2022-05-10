@@ -41,8 +41,8 @@ ol, ul {
     height: 120px;
     border-radius: 60px;
     border: 1px solid white;
-    width: auto;
-    z-index: 20;
+    /* width: auto; */
+    /* z-index: 20; */
 }
 
 blockquote, q {
