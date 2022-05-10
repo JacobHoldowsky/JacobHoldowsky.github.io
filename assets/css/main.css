@@ -45,6 +45,12 @@ ol, ul {
     z-index: 20;
 }
 
+.logo{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
 blockquote, q {
 	quotes: none;
 }
