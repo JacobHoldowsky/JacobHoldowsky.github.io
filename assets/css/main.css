@@ -38,11 +38,36 @@ ol, ul {
 }
 
 #profile-pic {
-    height: 200px;
-    border-radius: 60px;
+    height: 235px;
+    border-radius: 150px;
     border: 1px solid white;
-    width: 120px;
+    width: 235px;
     z-index: 20;
+}
+
+#project-imgs {
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+}
+
+#project-img{
+	max-width: 35vw;
+	border-radius: 20px;
+}
+
+#project-links{
+	display: flex;
+	gap: 5vw;
+}
+
+#project-div{
+	list-style: none;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
 }
 
 .logo{
