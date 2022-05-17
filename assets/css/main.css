@@ -306,6 +306,11 @@ input, select, textarea {
 		top: -0.5rem;
 	}
 
+	#cata-header{
+		height: 250px;
+		opacity:75%;
+	}
+
 	blockquote {
 		border-left: solid 4px #ffffff;
 		font-style: italic;
@@ -1193,9 +1198,8 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
-			background-size: auto,
- 256px 256px;
+			background-image: url("../../images/overlay.png");
+			background-size: 100vw 100vh;
 			background-position: center,
  center;
 			background-repeat: no-repeat,
