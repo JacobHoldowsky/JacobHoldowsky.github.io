@@ -74,6 +74,10 @@ ol, ul {
 	margin-bottom: 100px;
 }
 
+#project-tools{
+	text-align: center;
+}
+
 #email{
 	display: flex;
 	flex-direction: row;
